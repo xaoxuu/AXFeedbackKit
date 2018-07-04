@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 # pod trunk push AXFeedbackKit.podspec
 
   s.name         = "AXFeedbackKit"
-  s.version      = "0.0.1"
+  s.version = "0.0.1"
   s.summary      = "一个简单的邮件反馈工具。"
   s.homepage     = "http://xaoxuu.com"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
